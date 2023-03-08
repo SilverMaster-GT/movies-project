@@ -1,25 +1,20 @@
 # [Vite Theme Free](https://store.vuetifyjs.com/products/vite-theme-free)
 A free Vuetify 3 theme using Vite.
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg)[![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.com/invite/s93b7Fv)
+![version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
-**Vite Theme Free** is a beautiful resource built over [Vite](https://vitejs.dev/guide/), [Vuetify 3](https://next.vuetifyjs.com/en/) and [Vuejs 3](https://vuejs.org/). It will help you get started and quickly developing your Vuetify 3 Vite applications in no time. Using the Vite theme is pretty simple but requires basic knowledge of Javascript, [Vuejs](https://vuejs.org/v2/guide/) and [Vite](https://vitejs.dev/guide/).
+**Ejercicio site movies** ejercicio realizado utilizando [Vuejs](https://vuejs.org/v2/guide/), [Vite](https://vitejs.dev/guide/) and [Vuetify](https://vuetifyjs.com/).
 
 ## Getting Started
 
-- Install Nodejs from the official [Nodejs page](https://nodejs.org/en/)
-- Install Yarn from the official [Yarn installation page](https://classic.yarnpkg.com/en/docs/install/#windows-stable).
-- Unzip the `vite-theme-free.zip` file downloaded from the Vuetify store
-- Create a folder named `vite-theme` and unzip the `vite-theme-free.zip` file provided by the previous step
-- Open your terminal and navigate to the `vite-theme` directory
-- Run `yarn install` to install the project's dependencies
-- Run `yarn dev` to start a local development server
+- Run `npm install` to install the project's dependencies
+- Run `npm dev` to start a local development server
 
 You can also run additional tasks such as
 
-- `yarn run build` to build your app for production
-- `yarn run serve` to serve your production app
-- `yarn run lint` to run linting.
+- `npm run build` to build your app for production
+- `npm run serve` to serve your production app
+- `npm run lint` to run linting.
 
 ## Vuetify
 
@@ -43,20 +38,10 @@ Let us know what you think and what we can improve below. And good luck with dev
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Quick Start](#quick-start)
-- [Documentation](#documentation)
 - [File Structure](#file-structure)
-- [Browser Support](#browser-support)
-- [Resources](#resources)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions)
 - [Licensing](#licensing)
 - [Useful Links](#useful-links)
 
-## Demo
-
-- [Demo page](https://store.vuetifyjs.com/products/vite-theme-free/preview)
 
 ## File Structure
 
@@ -85,37 +70,6 @@ vite-theme-free/
 ```
 
 </details>
-
-## Browser Support
-
-| Browser | Status |
-| - | - |
-| Chromium (Chrome, Edge) | ✅ Supported * |
-| Firefox | ✅ Supported * |
-| Safari 15.4+ | ✅ Supported |
-| Safari 13. | ❗ Requires polyfill |
-| Edge <79 | ⛔ Not supported |
-| Internet Explorer | ⛔ Not supported |
-
-## Resources
-
-- [Live Preview](https://store.vuetifyjs.com/products/vite-theme-free/preview)
-- Product Page: [Product](https://store.vuetifyjs.com/products/vite-theme-free)
-- Vuetify Documentation is [Here](https://vuetifyjs.com/)
-- License Agreement: [License](https://store.vuetifyjs.com/licenses)
-- Contact: [Contact](https://store.vuetifyjs.com/contact-us)
-- Issues: [Github Issues Page](https://github.com/vuetifyjs/premium-theme-issues)
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the **Vite Theme Free** theme. Here is some advice for our users that want to report an issue:
-
-1. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-2. Some issues may be browser specific, so specifying what browser you encountered the issue will be helpful.
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please reach out in [Discord](https://discord.com/invite/s93b7Fv) or file an issue [here](https://github.com/vuetifyjs/premium-theme-issues).
 
 ## Licensing
 
